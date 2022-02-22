@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**ttran293/ttran293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm [Thanh Nam Tran](https://ttran293.github.io/my-website/), a passionate full time Jr Software Developer @ [Media Cybernetics](https://www.mediacy.com/), Inc and a hobbyist full stack web developer based in Rockville, MD. 
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/thanh-nam-tran/">
+  <img align="left" alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="ttran19@umbc.edu">
+  <img align="left" alt="My linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
+
+
