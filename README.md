@@ -5,6 +5,6 @@ i'm [Thanh Nam Tran](https://www.thanhnam.dev/), Full-Stack Software Engineer fo
 <a href="https://www.linkedin.com/in/thanh-nam-tran/">
   <img align="left" alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/ttran293/ttran293/blob/44a8b651978d84343ecb389fc4d3e0af0308b7fc/resume.pdf">
+<a href="https://github.com/ttran293/ttran293/blob/db32c01d3004e20211bac300074dc310202aa05d/resume.pdf">
   <img align="left" alt="My Resume" src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logoColor=white" />
 </a>
